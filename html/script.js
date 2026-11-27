@@ -57,7 +57,7 @@ function launchConfetti() {
 
 celebrateBtn.addEventListener("click", () => {
     message.textContent =
-        "🎉 Tous mes meilleurs vœux pour cette nouvelle année ! 🎉";
+        "J'ai hâte que les examens soient passés pour qu'on puisse fêter ensemble ! ";
     launchConfetti();
 
 });
